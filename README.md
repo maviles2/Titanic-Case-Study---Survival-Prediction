@@ -5,5 +5,13 @@ The following analysis utilizes the Titanic dataset to predict the chance of sur
 # Tools Utilized:
 - Python
 
+# Libraries:
+import pandas as pd 
 
+import numpy as np
 
+import yellowbrick
+
+import matplotlib.pyplot as plt
+
+import scikit-learn
